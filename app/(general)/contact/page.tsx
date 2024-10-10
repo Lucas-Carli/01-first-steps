@@ -5,11 +5,10 @@ export const metadata: Metadata = {
     description: 'Contacts page of my company',
 };
 
-export default function ContactPage(){
+export default function ContactPage() {
     return (
         <>
-        <span className="text-7xl">Contact Page</span>
-        
+            <span className="text-7xl">Contact Page</span>
         </>
     )
 }
